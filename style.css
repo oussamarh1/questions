@@ -78,3 +78,9 @@ button:hover {
 button:focus {
     outline: none;
 }
+
+.message {
+    font-size: large;
+    font-weight: bold;
+    color: #d82e49;
+}
